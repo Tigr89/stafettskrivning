@@ -22,7 +22,8 @@ Person 6 skriver här:
 
 Person 7 skriver här:
 =======================
-
+"Vad tusan hände!?"
+""
 
 Person 8 skriver här:
 =======================
