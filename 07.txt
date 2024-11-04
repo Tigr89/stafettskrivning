@@ -35,11 +35,6 @@ Person 13 skriver här:
 
 
 
-Person 14 skriver här:
-=======================
-
-
-
 Person 1 skriver här:
 =======================
 
