@@ -5,7 +5,6 @@ Person 10 skriver här:
 "Du kunde lösa problemet på ett annat sätt!", sa detektiven
 
 
-
 Person 1 skriver här:
 =======================
 "Jag vet det! men allting hände bara så fort, och till slut så sa hörde jag bara en stor smäll när hon krashade in i vindrutan och rullade över bilen. 
@@ -38,7 +37,7 @@ Regina: "Inte om jag har något att säga om det!"
 
 Person 7 skriver här:
 =======================
-
+"Jag känner mäktiga personer. Jag hade inte velat arrestera mig om jag var dig."
 
 
 Person 8 skriver här:
