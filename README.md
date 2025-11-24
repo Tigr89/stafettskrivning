@@ -10,7 +10,7 @@ på er berättelse.
 ## Uppgiftsupplägg
 
 1. Ladda ner repositoriet genom att öppna GitBash. Orientera er först till en önskvärd plats där ni vill ha repositoriet på er dator (exempelvis "Mina Dokument). Klona sedan repositoriet via kommandot: ```git clone [webadress här]```
-2. Skapa en ny branch för er grupp. 
+2. Skapa en ny branch för er grupp. ```git checkout -b [namnet på er branch]```
 3. Tilldela berättelser mellan era gruppkamrater. Kom också överens om hur ni ska rotera skrivandet så att alla får skriva på varje del.
 4. Skriv på er del. Detta bör ta ca. 10 minuter. 
 5. Spara arbetet. Öppna sedan Git och kontrollera vad det är som ändrats i ert repositorium genom att köra kommandot: ```git status```. Filerna som förändrats borde visas i rött. Därefter börjar processen att ladda upp ert arbete till GitHub.
